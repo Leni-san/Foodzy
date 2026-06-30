@@ -33,13 +33,13 @@
   --ink: oklch(0.18 0.012 60);
 
   --brand: oklch(0.58 0.16 42);          /* warm terracotta */
-  --brand-foreground: oklch(0.99 0.005 80);
+  --brand-foreground: oklch(63.083% 0.14009 59.029);
   --accent: oklch(0.48 0.11 130);        /* herb green */
   --accent-foreground: oklch(0.99 0.005 80);
 
   --card: oklch(1 0 0);
   --card-foreground: var(--ink);
-  --destructive: oklch(0.58 0.22 27);
+  --destructive: oklch(41.903% 0.16534 28.019);
   --destructive-foreground: oklch(0.99 0.005 80);
 }
 
